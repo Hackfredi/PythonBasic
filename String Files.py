@@ -4,3 +4,6 @@ print(phase.upper().isupper())
 
 #to find length of string
 print(len(phase))
+
+#print character at that position
+print(phase[4])
