@@ -22,3 +22,6 @@ print(ff.index(3))
 kj=[5,20,9721,2,31,0]
 kj.sort()
 print(kj)
+
+kj.reverse()
+print(kj)
